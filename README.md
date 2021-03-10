@@ -1,2 +1,0 @@
-# Wizualizacja-Danych
-Wizualizacja Danych
