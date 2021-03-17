@@ -68,7 +68,7 @@ import random
 #             print(" ",end="")
 #     print()
 
-# # Zad 1
+# # Zad 1 LAB 3
 
 # A = [ 1/x for x in range(1,11)]
 # print(A)
@@ -88,7 +88,5 @@ import random
 # # Zad 3
 
 # Lista = {"Banan": "kg", "Ser": "kg", "Cebula": "sztuki", "Szynka": "dkg"}
-
 # Nowa = [value for key,value in Lista.items()]
-
 # print(Nowa)
